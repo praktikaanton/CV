@@ -2,7 +2,7 @@
 
 ## Contacts
 
-*	Email: inton100@mail.ru
+*	Email: inton102@mail.ru
 
 ## About Me
 
@@ -21,7 +21,7 @@ I study specialty at the university. I love programming. I would like to create 
 *	CSS 
 *	JavaScript 
 *	npm
-*	Git / GitHub
+*	Git
 
 ## Code Example
 
