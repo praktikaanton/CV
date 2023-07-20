@@ -33,6 +33,7 @@ for(let i = 0; i<1000; i++){
 ## Education
 
 *	College of Communications No. 54 (Moscow, Russia)
+*	Vitebsk State Technological University (Vitebsk, Belarus)
 
 ## English
 
